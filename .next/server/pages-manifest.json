@@ -1,5 +1,16 @@
 {
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
+  "/assistant": "pages/assistant.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/copilot": "pages/copilot.js",
+  "/dashboard": "pages/dashboard.js",
+  "/": "pages/index.js",
+  "/tools/ai-playground": "pages/tools/ai-playground.js",
+  "/tools/encryption": "pages/tools/encryption.js",
+  "/tools/http-inspector": "pages/tools/http-inspector.js",
+  "/tools/project-tracker": "pages/tools/project-tracker.js",
+  "/tools/system-monitor": "pages/tools/system-monitor.js",
+  "/tools/terminal": "pages/tools/terminal.js",
   "/_document": "pages/_document.js"
 }
